@@ -1,0 +1,17 @@
+E:\Blackwatt\TTGrapher\TTGrapher\bin\Debug\TTGrapher.exe.config
+E:\Blackwatt\TTGrapher\TTGrapher\bin\Debug\TTGrapher.exe
+E:\Blackwatt\TTGrapher\TTGrapher\bin\Debug\TTGrapher.pdb
+E:\Blackwatt\TTGrapher\TTGrapher\obj\Debug\TTGrapher.csproj.AssemblyReference.cache
+E:\Blackwatt\TTGrapher\TTGrapher\obj\Debug\TTGrapher.csproj.SuggestedBindingRedirects.cache
+E:\Blackwatt\TTGrapher\TTGrapher\obj\Debug\TTGrapher.Form1.resources
+E:\Blackwatt\TTGrapher\TTGrapher\obj\Debug\TTGrapher.Properties.Resources.resources
+E:\Blackwatt\TTGrapher\TTGrapher\obj\Debug\TTGrapher.csproj.GenerateResource.cache
+E:\Blackwatt\TTGrapher\TTGrapher\obj\Debug\TTGrapher.csproj.CoreCompileInputs.cache
+E:\Blackwatt\TTGrapher\TTGrapher\obj\Debug\TTGrapher.exe
+E:\Blackwatt\TTGrapher\TTGrapher\obj\Debug\TTGrapher.pdb
+E:\Blackwatt\TTGrapher\TTGrapher\bin\Debug\NModbus4.dll
+E:\Blackwatt\TTGrapher\TTGrapher\bin\Debug\NModbus4.xml
+E:\Blackwatt\TTGrapher\TTGrapher\obj\Debug\TTGrapher.csproj.CopyComplete
+E:\Blackwatt\TTGrapher\TTGrapher\obj\Debug\TTGrapher.connectionForm.resources
+E:\Blackwatt\TTGrapher\TTGrapher\obj\Debug\TTGrapher.calibrationForm.resources
+E:\Blackwatt\TTGrapher\TTGrapher\obj\Debug\TTGrapher.generateGraphForm.resources
